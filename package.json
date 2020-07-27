@@ -1,0 +1,27 @@
+{
+  "name": "react-native-template-neti",
+  "version": "0.0.1",
+  "description": "Neti RN applications template",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NETI-MOBILE/react-native-template-neti.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate",
+    "neti"
+  ],
+  "author": "Aynur Dinmukhametov <codeard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NETI-MOBILE/react-native-template-neti/issues"
+  },
+  "homepage": "https://github.com/NETI-MOBILE/react-native-template-neti#readme"
+}
